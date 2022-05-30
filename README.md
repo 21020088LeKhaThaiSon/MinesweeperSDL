@@ -5,7 +5,7 @@
 - Tải game về bằng đường link https://github.com/21020088LeKhaThaiSon/MinesweeperSDL, chọn Code -> Download Zip. Giải nén và mở Visual Studio tới file SDLgame.sln.
   Hoặc có thể clone repo về máy tính qua đoạt git clone gh repo clone 21020088LeKhaThaiSon/MinesweeperSDL.
 - Cách cài đặt SDL cho Visual Code: https://phattrienphanmem123az.com/lap-trinh-game-c-p2/game-cpp-phan-2-cai-dat-project.html, có sẵn SDL, SDL_image, SDL_tff và SDL_mixer trong file tải về.
-- Chạy file MinesweeperSDL.exe để trải nghiệm game.
+- Vào file main.cpp, chọn Debug để trải nghiệm game.
 # 2. Mô tả chung về trò chơi
 - Có 100 ô vuông 10x10, trong đó có 12 quả bom giấu kín trong 100 ô đó.
 - Các ô mìn được tạo ngẫu nhiên, sau đó những ô còn lại sẽ đếm những trái bom xung quanh mình và tạo ra 1 con số thích hợp, nếu ko có trái nào thì sẽ để trống.
