@@ -26,7 +26,7 @@
 - Vòng lặp (for, while), logic (if-else) để xử lý logic game.
 # 5. Kết luận, hướng phát triển game
 Hướng phát triển:
-- Vẫn còn chưa hiểu hết về SDL (nhiều đoạn code còn tham khảo LazyFoo) nên sẽ tự tìm tòi, học hỏi để mở rộng game hơn: chia độ khó, tạo màn hình chơi game, điều chỉnh âm thanh (bật/tắt), thêm âm thanh dễ nghe trong lúc chơi game.
+- Vẫn còn chưa hiểu hết về SDL (nhiều đoạn code còn tham khảo Lazyfoo) nên sẽ tự tìm tòi, học hỏi để mở rộng game hơn: chia độ khó, tạo màn hình chơi game, điều chỉnh âm thanh (bật/tắt), thêm âm thanh dễ nghe trong lúc chơi game.
 - Giúp người chơi tự tạo sân chơi game của mình (tự tạo bảng, số mìn).
 Kết luận:
 - Tự mình đã hiểu logic và tạo ra 1 phần con game tuổi thơ.
