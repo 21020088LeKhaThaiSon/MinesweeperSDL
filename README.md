@@ -2,7 +2,7 @@
 - Lê Khả Thái Sơn - 21020088
 # 1. Cách cài đặt game
 - Cài đặt Visual Studio tại https://visualstudio.microsoft.com/downloads
-- Tải game về bằng đường link https://github.com/21020088LeKhaThaiSon/MinesweeperSDL, chọn Code -> Download Zip. Giải nén và mở Visual Studio tới file main.cpp.
+- Tải game về bằng đường link https://github.com/21020088LeKhaThaiSon/MinesweeperSDL, chọn Code -> Download Zip. Giải nén và mở Visual Studio tới file SDLgame.sln.
   Hoặc có thể clone repo về máy tính qua đoạt git clone gh repo clone 21020088LeKhaThaiSon/MinesweeperSDL.
 - Cách cài đặt SDL cho Visual Code: https://phattrienphanmem123az.com/lap-trinh-game-c-p2/game-cpp-phan-2-cai-dat-project.html, có sẵn SDL, SDL_image, SDL_tff và SDL_mixer trong file tải về.
 - Chạy file MinesweeperSDL.exe để trải nghiệm game.
